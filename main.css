@@ -54,3 +54,7 @@ footer a{
     color: black;
     font-size: 20px;
 }
+body {
+    height: 7100px; /* Используется для включения прокрутки */
+    background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%);
+}
